@@ -74,7 +74,6 @@ Webhose adalah *web crawler *yang dapat mengubah konten *website *yang tidak ter
 
 *Data feeds *yang dimaksud dapat mencakup banyak sumber data, seperti diskusi *online, *situs berita, dan lainnya.
 
-#### Baca Juga: [SEO Tools yang Wajib Dikuasai agar Websitemu Optimal](https://glints.com/id/lowongan/seo-tools-yang-wajib-dikuasai-agar-websitemu-optimal/#.XykU0hMzZQI)
 
 Demikian penjelasan Glints tentang apa itu *web crawling *dan *web crawler.*
 
